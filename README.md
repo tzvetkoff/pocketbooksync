@@ -1,4 +1,4 @@
-# KOReader Pocketbook Sync
+# KOReader PocketBook Sync
 
 A KOReader plugin that syncs reading progress from KOReader to PocketBook
 Library, primarily to make the book progress bars on PocketBook's home screen
@@ -19,4 +19,3 @@ KOReader and PBReader.
 
 For further information, read the corresponding thread on MobileRead:
 https://www.mobileread.com/forums/showthread.php?t=354026
-
